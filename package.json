@@ -1,0 +1,16 @@
+{
+  "name": "fanduel",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Tucker",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "gulp": "^3.8.0",
+    "mocha": "^1.20.1"
+  }
+}
